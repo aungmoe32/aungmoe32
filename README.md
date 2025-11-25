@@ -4,7 +4,7 @@
 [![GitHub Followers](https://img.shields.io/github/followers/aungmoe32?label=Followers&style=social)](https://github.com/aungmoe32)
 [![Profile Views](https://komarev.com/ghpvc/?username=aungmoe32&color=green)]()
 
-Aspiring **DevOps Engineer**.
+Aspiring **Full-Stack Developer** & **DevOps Engineer**.
 Passionate about **Cloud, Kubernetes, Automation, and DevOps best practices**.
 Passed **AWS SAA-C03** and currently learning Kubernetes and CI/CD workflows.
 
