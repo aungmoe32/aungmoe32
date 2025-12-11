@@ -8,7 +8,7 @@ Aspiring **Full-Stack Developer** & **DevOps Engineer**.
 Passionate about **Cloud, Kubernetes, Automation, and DevOps best practices**.
 Passed **AWS SAA-C03** and currently learning Kubernetes and CI/CD workflows.
 
-## 🚀 What I'm Learning
+## 🚀 Hands-on with
 
 - Kubernetes
 - AWS Developer & Serverless tools
