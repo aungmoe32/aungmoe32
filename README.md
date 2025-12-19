@@ -60,7 +60,6 @@ Passionate about **scalable web applications, cloud infrastructure, Kubernetes, 
 
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git\&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions\&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins\&logoColor=white)
 
 ### 🧰 Infrastructure & Scripting
 
