@@ -4,7 +4,7 @@
 [![GitHub Followers](https://img.shields.io/github/followers/aungmoe32?label=Followers\&style=social)](https://github.com/aungmoe32)
 [![Profile Views](https://komarev.com/ghpvc/?username=aungmoe32\&color=green)]()
 
-Aspiring **Full-Stack Developer** & **DevOps Engineer** with a strong backend foundation and growing cloud-native expertise.
+Aspiring **Full-Stack Developer** with a strong backend foundation and growing cloud-native expertise.
 Passionate about **scalable web applications, cloud infrastructure, Kubernetes, and automation**.
 
 ✔️ **AWS Certified Solutions Architect – Associate (SAA-C03)**
