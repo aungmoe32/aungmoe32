@@ -17,15 +17,13 @@ Passionate about **scalable web applications, cloud infrastructure, Kubernetes, 
 ### 🧑‍💻 Full-Stack Development
 
 * Building **RESTful APIs** and backend services
-* Secure authentication & authorization (JWT, OAuth, Sanctum)
+* Secure authentication & authorization
 * Designing scalable backend architectures
-* Integrating modern SPA frontends with APIs
 
 ### ☁️ Cloud & DevOps
 
 * Containerized applications with Docker
 * Deploying & managing workloads on Kubernetes
-* CI/CD automation with GitHub Actions
 * Infrastructure basics with Terraform
 
 ---
@@ -67,16 +65,6 @@ Passionate about **scalable web applications, cloud infrastructure, Kubernetes, 
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform\&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?logo=gnu-bash\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white)
-
----
-
-## 📌 Current Focus
-
-* Building **full-stack projects with Laravel & Next.js**
-* Designing **API-first architectures**
-* Practicing Kubernetes labs for **CKA**
-* Automating CI/CD pipelines
-* Preparing for **Full-Stack / DevOps internship & junior roles**
 
 ---
 
