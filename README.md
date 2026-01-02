@@ -93,7 +93,7 @@ Passionate about **scalable web applications, cloud infrastructure, Kubernetes, 
 
 ## 🌐 Connect With Me
 
-👉 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/aung-moe-myint-thu-679884258/)
+👉 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/aung-moe-myint-thu/)
 👉 **GitHub:** [github.com/aungmoe32](https://github.com/aungmoe32)
 
 💬 *Open to full-stack, backend, and DevOps internship or junior opportunities.*
