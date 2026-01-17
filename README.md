@@ -6,7 +6,7 @@ Aspiring Full-Stack Developer with a strong backend foundation and growing cloud
 I work primarily in full-stack development, building RESTful APIs and backend services with secure authentication and authorization while designing scalable backend architectures. I also do AWS Cloud and DevOps, including containerizing applications with Docker, deploying and managing workloads on Kubernetes, and handling infrastructure fundamentals using Terraform.
 
 - AWS Certified Solutions Architect – Associate (SAA-C03)
-- Actively preparing for CKA and DevOps-focused roles
+- Actively preparing for CKA 
 
 ---
 
